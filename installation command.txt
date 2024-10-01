@@ -1,0 +1,7 @@
+cd C:\Users\hp\Documents\zprojects\ai resume analyzer\AI-Resume-Analyzer
+
+.\venvapp\Scripts\activate
+
+cd App
+
+streamlit run App.py
